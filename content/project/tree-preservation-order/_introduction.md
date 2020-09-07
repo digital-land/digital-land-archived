@@ -1,0 +1,1 @@
+A tree preservation order is an order made by a local planning authority in England to protect specific trees, groups of trees or woodlands in the interests of amenity without the local planning authority’s written consent.

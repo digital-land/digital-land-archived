@@ -1,0 +1,1 @@
+Existing use classes define what a particular property may be used for by its lawful occupants.

@@ -1,0 +1,1 @@
+A landmark or area with legal protection by an international convention administered by UNESCO for having cultural, historical, scientific or other form of significance.

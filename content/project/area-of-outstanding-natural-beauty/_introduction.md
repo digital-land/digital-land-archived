@@ -1,0 +1,1 @@
+A landscape whose distinctive character and natural beauty are precious enough to be safeguarded in the national interest

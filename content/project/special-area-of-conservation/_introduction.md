@@ -1,0 +1,1 @@
+Defined in the European Union's Habitats Directive (92/43/EEC) they protect the 220 habitats and approximately 1000 species listed in annex I and II of the directive which are considered to be of European interest following criteria given in the directive.

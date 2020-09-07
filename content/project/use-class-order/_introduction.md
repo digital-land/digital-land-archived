@@ -1,0 +1,1 @@
+Use class orders are the legal framework which determines what a particular property may be used for by its lawful occupants.

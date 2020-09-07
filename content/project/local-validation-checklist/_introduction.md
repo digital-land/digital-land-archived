@@ -1,0 +1,1 @@
+Local validation checklists are a list of information requirements required by the Local Authority.

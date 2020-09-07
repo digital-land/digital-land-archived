@@ -1,0 +1,1 @@
+The national validation list is a list of information requirements set out in national legislation.

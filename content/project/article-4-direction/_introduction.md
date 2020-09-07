@@ -1,0 +1,1 @@
+An article 4 direction is a direction under article 4 of the General Permitted Development Order which enables the Secretary of State or the local planning authority to withdraw specified permitted development rights across a defined area.

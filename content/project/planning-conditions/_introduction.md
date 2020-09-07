@@ -1,0 +1,1 @@
+Conditions which need to be met for a plannign decision to be implemented.

@@ -1,0 +1,1 @@
+Flood zones refer to the probability of river and sea flooding, ignoring the presence of defences.
