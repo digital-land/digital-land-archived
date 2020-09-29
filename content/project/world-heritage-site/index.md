@@ -3,7 +3,8 @@ title: "World heritage site"
 status: investigation
 typology: geography
 label: "project:world-heritage-site"
+data provider and maintainer: Historic England
 hasContent: true
 pageFeedback: false
-summary: A landmark or area with legal protection by an international convention administered by UNESCO for having cultural, historical, scientific or other form of significance
+summary: A site, area, or structure with legal protection (given by UNESCO) for having outstanding international importance.
 ---
