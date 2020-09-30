@@ -3,7 +3,8 @@ title: "National parl"
 status: investigation
 typology: geography
 label: "project:national-park"
+data provider and maintainer: National Park Authority
 hasContent: true
 pageFeedback: false
-summary: Areas of relatively undeveloped and scenic landscape that are designated under the National Parks and Access to the Countryside Act 1949
+summary: Areas of land that are protected because of their beautiful countryside, wildlife and cultural heritage.
 ---

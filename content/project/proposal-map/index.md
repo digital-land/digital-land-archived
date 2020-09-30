@@ -3,7 +3,8 @@ title: "Proposal map"
 status: investigation
 typology: geography
 label: "project:proposal-map"
+data provider and maintainer: local planning authorities
 hasContent: true
 pageFeedback: false
-summary: A list of maps showing the geographical extent of policies, site allocations and land designations in all current development plan documents, set out on an Ordnance Survey base map
+summary: A map of geospatial policies, site allocations and land designations in a local plan.
 ---
