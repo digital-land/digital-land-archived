@@ -1,5 +1,5 @@
 ---
-title: "Conservation areas"
+title: "Conservation area"
 status: investigation
 typology: geography
 label: "project:conservation-area"
