@@ -4,6 +4,9 @@ Guidance: [Areas of outstanding natural beauty (AONBs): designation and manageme
 Legislation: [Countryside and Rights of Way Act 2000](https://www.legislation.gov.uk/ukpga/2000/37/part/IV)
 
 Status: investigation
+
 Identifier: 
+
 Typology (type of data): geography
+
 Data provider and maintainer: National Association for Areas of Outstanding Natural Beauty 
