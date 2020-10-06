@@ -1,1 +1,6 @@
-A network of mostly navigable rivers and lakes in the English counties of Norfolk and Suffolk constituted as a special area with a level of protection similar to a national park.
+The Norfolk and Suffolk Broads is Britain's largest protected wetland and third largest inland waterway, with the protected status of a national park.
+
+* Status: investigation
+* Identifier: broads
+* Typology (type of data): geography
+* Data provider and maintainer: Broads authority
