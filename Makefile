@@ -16,7 +16,7 @@ fetch/js:
 	wget -O static/javascripts/vendor/highlight.pack.js https://raw.githubusercontent.com/digital-land/frontend/master/digital_land_frontend/static/javascripts/vendor/highlight.pack.js
 	wget -O static/javascripts/vendor/govuk-accessible-autocomplete.min.js https://raw.githubusercontent.com/digital-land/frontend/master/digital_land_frontend/static/javascripts/vendor/govuk-accessible-autocomplete.min.js
 
-fetch/all: fetch/css fetch/js
+assets: fetch/css fetch/js
 
 init::
 	@:
