@@ -5,8 +5,10 @@ serve:
 	hugo -D serve
 
 fetch/css:
+	mkdir -p static/stylesheets/vendor
 	wget -O static/stylesheets/dl-frontend.css https://raw.githubusercontent.com/digital-land/frontend/master/digital_land_frontend/static/stylesheets/dl-frontend.css
 	wget -O static/stylesheets/styleguide.css https://raw.githubusercontent.com/digital-land/frontend/master/digital_land_frontend/static/stylesheets/styleguide.css
+	wget -O static/stylesheets/vendor/govuk-accessible-autocomplete.min.css https://raw.githubusercontent.com/digital-land/frontend/master/digital_land_frontend/static/stylesheets/vendor/govuk-accessible-autocomplete.min.css
 
 fetch/js:
 	wget -O static/javascripts/dl-frontend.js https://raw.githubusercontent.com/digital-land/frontend/master/digital_land_frontend/static/javascripts/dl-frontend.js
